@@ -1,12 +1,12 @@
-# osTicket-update-to-Transfer
+# osTicket-Update-to-Transfer-Cycle
 
 ## Description
-This project is the task of creating organizational units for employees and admins the creating a user that will be added to the "Domain Admins" group within the domain.
+This project is the task of observing and escalating a ticket by updating the priority level, SLA and transferring to a different department.
 
 ## Environments and Technologies Used
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop Connection
-- Active Directory Users and Computers
+- osTicket | Support Ticketing System
 
 ## Operating Systems Used
 - Windows Server 2022
